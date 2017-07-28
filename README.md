@@ -17,5 +17,5 @@ Curso de Node.js para o meu site Code4Coders & Consultoria. Desenvolvimento de c
 ## Ementa do Curso: (em desenvolvimento)
 
 - [Aula 1: Hello World!!!]() 
-        Executar arquivo Js com node com a linha de comando.
+    * Executar arquivo Js com node com a linha de comando.
 
