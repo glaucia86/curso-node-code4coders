@@ -16,6 +16,12 @@ Curso de Node.js para o meu site Code4Coders & Consultoria. Desenvolvimento de c
 
 ## Ementa do Curso: (em desenvolvimento)
 
-- [Aula 1: Hello World!!!]() 
+- [Aula 1: Hello World!!!](https://github.com/glaucia86/curso-node-code4coders/tree/master/Aula%20-%201) 
     * Executar arquivo Js com node com a linha de comando.
+
+- [Aula 2: Criando um mini Servidor com Node.Js](https://github.com/glaucia86/curso-node-code4coders/tree/master/Aula%20-%202)
+    * Aprenderemos de maneira bem simples como criar um server com o Node.Js.
+
+
+
 
