@@ -10,7 +10,7 @@ Curso de Node.js para o meu site Code4Coders & Consultoria. Desenvolvimento de c
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação:
 
-- Visual Studio Code - [LINK PARA BAIXAR](https://code.visualstudio.com/)
+- Visual Studio Code - [LINK PARA BAIXAR](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
 - Node.Js - [LINK PARA BAIXAR](https://nodejs.org/en/)
 
 
